@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+*.log
+.DS_Store
+npm-debug.log*
+package-lock.json
+
+# React Native
+android/.gradle/
+android/app/build/
+.android/
+*.keystore
+*.jks
+*.iml
+
+# Optional npm cache directory
+.npm/
